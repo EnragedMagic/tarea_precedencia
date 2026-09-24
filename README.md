@@ -1,6 +1,6 @@
-# Precedencia y Asociatividad con Flex y Bison
+# Precedencia y Asociatividad con Flex y Bison - Johan Galeano
 
-Este proyecto muestra el funcionamiento de la precedencia y la asociatividad de operadores utilizando una calculadora hecha con Flex y Bison.
+Esta activida muestra el funcionamiento de la precedencia y la asociatividad de operadores utilizando una calculadora hecha con Flex y Bison.
 
 La calculadora permite utilizar:
 
